@@ -1,0 +1,15 @@
+{
+    "name": "firstbot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "id": "a04cfd40-7796-11e8-b875-47b6667444bb",
+            "name": "first bot",
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://127.0.0.1:3979/api/messages"
+        }
+    ]
+}
